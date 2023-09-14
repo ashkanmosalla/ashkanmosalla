@@ -7,12 +7,12 @@
 
 - 💻 I am a highly innovative and motivated water resources engineer at Iran University of Science and Technology,
 - 🌱 I have developed my software development skills as a self-taught programmer, proficient in Python and Machine learning.
-- 💻 I am keen to learn and tackling flood modeling and chalenges by utilizing the latest academic research, performing advanced data analyses, and implementing efficient ML models.
+- 💻 I am keen to learn and tackling flood modeling and chalenges by utilizing the latest academic research, performing advanced data analyses and Geospatial data analyses, and implementing efficient ML models.
 - 📫 How to reach me: ashkan.mosalla76@gmail.com
 
 
 ### 🖥 Skills
-
+- Arc Map
 - Machine Learning
 - Deep Learning (just started :)
   
