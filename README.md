@@ -14,6 +14,7 @@
 ### 🖥 Skills
 - Arc Map
 - Python
+- Postgresql
 - Machine Learning
 - Deep Learning 
   
