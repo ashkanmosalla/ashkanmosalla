@@ -13,8 +13,9 @@
 
 ### 🖥 Skills
 - Arc Map
+- Python
 - Machine Learning
-- Deep Learning (just started :)
+- Deep Learning 
   
 ### ⚙️ Tech Stack
 
