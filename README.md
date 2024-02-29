@@ -5,19 +5,20 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ashkan.mosalla76@gmail.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/ashkanmosalla)
 
-- 💻 I am a highly innovative and motivated water resources engineer at Iran University of Science and Technology,
+- 💻 I am a highly innovative and motivated water resources student.
 - 🌱 I have developed my software development skills as a self-taught programmer, proficient in Python and Machine learning.
 - 💻 I excel at tackling complex water resources challenges by utilizing the latest academic research, Satellite imagery analyses, performing advanced data analyses and Geospatial data analyses, and implementing efficient ML models.
-- 📫 How to reach me: ashkan.mosalla76@gmail.com
+- 📫 How to reach me: ashkan.mosallanejad76@gmail.com
 
 
 ### 🖥 Skills
-- Arc Map
-- Remote sensing (Google earth engine)
+- ArcGIS
+- Remote sensing
 - Python
 - Postgresql
 - Machine Learning
-- Deep Learning 
+- Deep Learning
+- NLP
   
 ### ⚙️ Tech Stack
 
